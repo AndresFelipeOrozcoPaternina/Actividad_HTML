@@ -2,12 +2,12 @@
 
 ## Planteamiento del Problema
 
-Hoy en día hay un montón de torneos locales, carreras comunitarias y partidos de ligas menores que casi nadie se entera y terminan pasando desapercibidos. A diferencia de los eventos gigantes o profesionales, el deporte local no tiene un lugar fijo o fácil donde la gente pueda revisar qué va a haber el fin de semana.
+Hoy en día hay un montón de torneos locales y partidos de ligas menores que casi nadie se entera y terminan pasando desapercibidos. A diferencia de los eventos gigantes o profesionales, el deporte local no tiene un lugar fijo o fácil donde la gente pueda revisar qué va a haber el fin de semana.
 
 La información casi siempre termina repartida en publicaciones de redes sociales o grupos de chat que se pierden lejísimos. Esto hace que a los organizadores les cueste reunir gente y que los fanáticos o vecinos se pierdan la oportunidad de ir a apoyar o participar por no enterarse a tiempo de los horarios y lugares.
 
 ### Temática Elegida
-* **Temática:** Eventos deportivos (torneos locales, carreras, partidos y competencias comunitarias).
+* **Temática:** Eventos deportivos (torneos locales, partidos y competencias comunitarias).
 
 ### Inicio de Sesión (Login)
 
