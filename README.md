@@ -1,4 +1,4 @@
-# Grupo conformado por: 
+# Grupo conformado por: Juan Manuel Pineda, Andrés Felipe Orozco Paternina, 
 
 ## Planteamiento del Problema
 
