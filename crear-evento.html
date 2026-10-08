@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SportHub - Publicar Evento</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <header>
+        <h1>SportHub - Panel de Administracion</h1>
+        <nav>
+            <a href="index.html">Ver Sitio Publico</a> | 
+            <a href="login.html">Cerrar Sesion</a>
+        </nav>
+    </header>
+    <hr>
+
+    <main>
+        <h2>Publicar Nuevo Evento Deportivo</h2>
+
+        <form action="index.html" >
+            <div>
+                <label for="titulo">Titulo del Evento:</label><br>
+                <input type="text" id="titulo"  placeholder="Ej: Torneo Relampago de Baloncesto" required>
+            </div>
+            <br>
+            <div>
+                <label for="deporte">Deporte / Categoria:</label><br>
+                <select id="deporte" required>
+                    <option value="futbol">Futbol</option>
+                    <option value="baloncesto">Baloncesto</option>
+                    <option value="atletismo">Atletismo</option>
+                    <option value="natacion">Natacion</option>
+                    <option value="otro">Otro</option>
+                </select>
+            </div>
+            <br>
+            <div>
+                <label for="fecha">Fecha del Evento:</label><br>
+                <input type="date" id="fecha" required>
+            </div>
+            <br>
+            <div>
+                <label for="hora">Hora:</label><br>
+                <input type="time" id="hora" required>
+            </div>
+            <br>
+            <div>
+                <label for="lugar">Lugar / Escenario Deportivo:</label><br>
+                <input type="text" id="lugar"  placeholder="Ej: Polideportivo Municipal" required>
+            </div>
+            <br>
+            <div>
+                <label for="descripcion">Descripcion del Evento:</label><br>
+                <textarea id="descripcion"  rows="5" cols="40" placeholder="Detalles de inscripción, reglas, premios..." required></textarea>
+            </div>
+            <br>
+            <button type="submit">Publicar Evento</button>
+        </form>
+    </main>
+</body>
+</html>

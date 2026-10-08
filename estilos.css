@@ -1,0 +1,111 @@
+/* --- Estilos Generales --- */
+body {
+font-family: Arial, sans-serif;
+line-height: 1.6;
+background-color: #f4f6f8;
+color: #333;
+margin: 0;
+padding: 20px;
+}
+
+/* Encabezados y Navegación */
+header {
+background-color: #1b4332;
+color: white;
+padding: 15px 20px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+
+header h1 {
+margin: 0 0 10px 0;
+font-size: 24px;
+}
+
+nav a {
+color: #d8f3dc;
+text-decoration: none;
+font-weight: bold;
+margin-right: 10px;
+}
+
+nav a:hover {
+text-decoration: underline;
+}
+
+/* Contenido Principal */
+main {
+background-color: white;
+padding: 20px;
+border-radius: 8px;
+box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+max-width: 800px;
+margin: 0 auto;
+}
+
+/* Formularios */
+form div {
+margin-bottom: 15px;
+}
+
+label {
+font-weight: bold;
+display: block;
+margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="time"],
+select,
+textarea {
+width: 100%;
+padding: 8px;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+}
+
+button {
+background-color: #2d6a4f;
+color: white;
+border: none;
+padding: 10px 15px;
+border-radius: 4px;
+cursor: pointer;
+font-size: 16px;
+}
+
+button:hover {
+background-color: #1b4332;
+}
+
+/* Tarjetas de Eventos */
+article {
+border: 1px solid #e0e0e0;
+padding: 15px;
+border-radius: 6px;
+margin-bottom: 15px;
+background-color: #fafafa;
+}
+
+article h3 {
+margin-top: 0;
+color: #2d6a4f;
+}
+
+/* Botones de enlace */
+a.boton-enlace {
+display: inline-block;
+background-color: #40916c;
+color: white;
+padding: 8px 12px;
+text-decoration: none;
+border-radius: 4px;
+font-size: 14px;
+}
+
+a.boton-enlace:hover {
+background-color: #2d6a4f;
+}
