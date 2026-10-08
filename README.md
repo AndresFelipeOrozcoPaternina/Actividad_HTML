@@ -25,6 +25,6 @@ Para poder enviar el formulario y acceder al sistema, es obligatorio que ambos c
   * Lugar
   * Descripción
   
-  *(Si falta alguno de estos campos, el formulario no permitirá el envío).*
+  (Si falta alguno de estos campos, el formulario no permitirá el envío).
 
 * **Usuario / Visitante:** Puede navegar libremente por la interfaz principal sin necesidad de iniciar sesión. En esta pantalla consulta un breve resumen de los eventos disponibles y cuenta con un enlace o etiqueta ("Ver detalle") para ingresar a la vista detallada, donde podrá leer la descripción completa y los datos concretos de cada encuentro.
